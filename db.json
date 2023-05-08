@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": "milan@12",
+      "name": "Milan Rawal",
+      "password": "12345",
+      "email": "milan@gmail.com",
+      "phone": "9840134562",
+      "country": "Nepal",
+      "address": "Nepal"
+    }
+  ]
+}
