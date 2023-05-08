@@ -26,6 +26,7 @@
     "vite": "^4.3.2"
   },
   "scripts": {
+    "start": "vite",
     "build": "vite build",
     "dev": "vite ",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
